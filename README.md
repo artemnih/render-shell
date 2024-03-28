@@ -1,12 +1,11 @@
 # Render shell app
 
-## Reqs
-Node 20
+## Requirements 
+```
+node version: 20
+```
 
-How to use:
-- Clone the repo
-
-
+## How to use:
 ```bash
 npm i
 npm start
