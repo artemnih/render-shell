@@ -1,7 +1,12 @@
 # Render shell app
 
+## Reqs
+Node 20
+
 How to use:
-Clone the repo
+- Clone the repo
+
+
 ```bash
 npm i
 npm start
