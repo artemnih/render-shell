@@ -21,5 +21,8 @@ module.exports = {
     },
     compress: true,
     port: 9000,
+
+    // do not open browser
+    open: false,
   },
 };
